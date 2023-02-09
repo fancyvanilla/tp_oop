@@ -5,6 +5,7 @@ using namespace std;
 
 class fichier
 {   
+    private:
     char* Name;
     char* mode;
     FILE* fp;
